@@ -10,6 +10,7 @@ import com.loyk.sync.repositories.AvionAssurance1Repository;
 
 @Service
 public class AvionAssurance1Service {
+    
     @Autowired
      AvionAssurance1Repository aaRepository;
 
